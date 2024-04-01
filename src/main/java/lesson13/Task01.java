@@ -27,6 +27,13 @@ public class Task01 {
             System.out.println(salary);
         }
 
+
+    }
+    public static int divide(int x, int y){
+        if (y == 0){
+            return - 1;
+        }
+        return x/y;
     }
 }
 

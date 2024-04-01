@@ -26,7 +26,7 @@ public class Task01 {
             System.out.println(a + " - нечетное число.");
         }
     }
-    private static int divide(int x, int y){
+    public static int divide(int x, int y){
         if (y == 0){
             return - 1;
         }
