@@ -45,5 +45,19 @@ public class HashApp {
 
         }
         return set;
+        /*
+          public static void main(String[] args) {
+        HashSet<ClothingItem> hashSet = new HashSet<>();
+        ClothingItem item1 = new ClothingItem("T - Shirt", "L", "Green", "Outerwear");
+        ClothingItem item2 = new ClothingItem("T - Shirt", "M", "Blue", "Outerwear");
+        ClothingItem item3 = new ClothingItem("Jeans", "38", "Blue", "underwear");
+        ClothingItem item4 = new ClothingItem("Sneakers", "43", "White", "shoes");
+        hashSet.add(item1);
+        hashSet.add(item2);
+        hashSet.add(item3);
+        hashSet.add(item4);
+
+    }
+         */
     }
 }
