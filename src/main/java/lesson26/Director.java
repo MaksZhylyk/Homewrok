@@ -1,4 +1,4 @@
-package lesson27;
+package lesson26;
 
 public class Director extends FilmStudioEmployee{
     public Director(String name, String position, int experienceYear) {

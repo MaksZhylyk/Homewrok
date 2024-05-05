@@ -1,4 +1,4 @@
-package lesson27;
+package lesson26;
 
 public class FilmStudioEmployee {
     private String name;

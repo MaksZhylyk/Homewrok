@@ -1,4 +1,4 @@
-package lesson27;
+package lesson26;
 
 public class CameraOperator extends  FilmStudioEmployee {
     public CameraOperator(String name, String position, int experienceYear) {
