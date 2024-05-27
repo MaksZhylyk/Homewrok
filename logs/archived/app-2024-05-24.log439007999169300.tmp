@@ -1,0 +1,12 @@
+2024-05-24 17:54:47.564 [main] ERROR exceptionshandling.ErrorCalculator - Divide by zero
+2024-05-24 17:54:47.569 [main] ERROR exceptionshandling.ErrorCalculator - / by zero
+2024-05-24 17:54:47.569 [main] INFO  exceptionshandling.ErrorCalculator - a = 10, b = 0, result: 0
+2024-05-24 17:54:47.572 [main] INFO  exceptionshandling.ErrorCalculator - Divide was finished
+2024-05-24 17:55:28.957 [main] ERROR exceptionshandling.ErrorCalculator - Divide by zero
+2024-05-24 17:55:28.960 [main] ERROR exceptionshandling.ErrorCalculator - / by zero
+2024-05-24 17:55:28.960 [main] INFO  exceptionshandling.ErrorCalculator - a = 10, b = 0, result: 0
+2024-05-24 17:55:28.961 [main] INFO  exceptionshandling.ErrorCalculator - Divide was finished
+2024-05-24 18:09:13.080 [main] ERROR exceptionshandling.ErrorCalculator - Animal is null
+2024-05-24 18:09:13.081 [main] ERROR exceptionshandling.ErrorCalculator - Cannot invoke "lesson34.Animal.getEnergy()" because "exceptionshandling.ErrorCalculator.animal" is null
+2024-05-24 18:09:13.081 [main] INFO  exceptionshandling.ErrorCalculator - a = 10, b = 10, result: 1
+2024-05-24 18:09:13.083 [main] INFO  exceptionshandling.ErrorCalculator - Divide was finished
