@@ -1,0 +1,21 @@
+OutputStream
+Methods
+1.  void close() --> закрывает поток и освобождает все с этим связанные ресурсы
+2.  void write(int b) --> записывает в входной поток один байт
+3. void write (byte[] b, int off, int len) --> записывает в входной поток массив байтов равное len,
+из массива b, и начаиная с точки byte[off]
+4. void write(@NoNull byte[] b) --> записывает в входной поток массив байтов
+5. void flush() --> очищает буфер вывод, записывая все содержимое
+
+Ресурс -- Обработка данных -- Destination(назначение)
+
+Ресурс -- InputStream/Reader --> Обработка данных --> OutputStream/Writer --> Destination(назначение)
+
+
+
+InputStream          OutputStream              Reader             Writer
+FileInputStream      FileOutputStream          FileReader         FileWriter
+BufferedInputStream  BufferedOutputStream      BufferedReader     BufferedWriter
+ByteArrayInputStream ByteArrayUOutputStream    CharArrayReader    CharArrayWriter
+DataInputStream      DataOutputStream          FilterReader       FilterWriter
+ObjectInputStream    ObjectOutputStream

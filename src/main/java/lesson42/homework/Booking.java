@@ -1,0 +1,28 @@
+package lesson42.homework;
+
+public class Booking {
+    String customerName;
+    int hotelNumber;
+    String roomType;
+    String checkInDate;
+    String checkOutDate;
+
+    public Booking(String customerName, int hotelNumber, String roomType, String checkInDate, String checkOutDate) {
+        this.customerName = customerName;
+        this.hotelNumber = hotelNumber;
+        this.roomType = roomType;
+        this.checkInDate = checkInDate;
+        this.checkOutDate = checkOutDate;
+    }
+
+    @Override
+    public String toString() {
+        return "Booking{" +
+                "customerName='" + customerName + '\'' +
+                ", hotelNumber=" + hotelNumber + '\'' +
+                ", roomType='" + roomType  + '\'' +
+                ", checkInDate='" + checkInDate + '\'' +
+                ", checkOutDate='" + checkOutDate + '\'' +
+                '}';
+    }
+}

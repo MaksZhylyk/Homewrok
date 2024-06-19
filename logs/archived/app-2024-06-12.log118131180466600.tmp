@@ -1,0 +1,5 @@
+2024-06-12 11:03:32.213 [main] INFO  lesson40.JavaIOOutput - Written output to file
+2024-06-12 11:04:07.644 [main] INFO  lesson40.JavaIOOutput - Written output to file: Java IO output
+2024-06-12 11:04:30.300 [main] INFO  lesson40.JavaIOOutput - Written output to file: java.io.FileOutputStream@5891e32e
+2024-06-12 11:04:40.845 [main] INFO  lesson40.JavaIOOutput - Written output to file: Java IO output
+2024-06-12 11:09:52.856 [main] INFO  lesson40.JavaIOOutput - Written output to file: Java IO output
