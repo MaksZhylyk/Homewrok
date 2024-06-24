@@ -1,11 +1,11 @@
 package lesson42.homework;
 
 public class Booking {
-    String customerName;
-    int hotelNumber;
-    String roomType;
-    String checkInDate;
-    String checkOutDate;
+   private String customerName;
+    private int hotelNumber;
+    private String roomType;
+    private String checkInDate;
+    private String checkOutDate;
 
     public Booking(String customerName, int hotelNumber, String roomType, String checkInDate, String checkOutDate) {
         this.customerName = customerName;
